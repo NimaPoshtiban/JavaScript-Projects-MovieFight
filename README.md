@@ -4,7 +4,7 @@
 It is a simple app for doing a compression between two Movies Written in Vanilla Js
 
 ## How to Use?
-Just click on this link  ('https://movie-fighter-kx7maq55a.vercel.app/') 
+Just open index.html file
 ### technologies
 - [OMDbAPI]('http://www.omdbapi.com/') 
 - [Bulma]('https://bulma.io/')
