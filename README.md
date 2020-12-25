@@ -10,3 +10,4 @@ Just open index.html file
 - [Bulma]('https://bulma.io/')
 - [Axios]('https://github.com/axios/axios')
 - [FontAwesome]('https://fontawesome.com/')
+- [Mochajs]
